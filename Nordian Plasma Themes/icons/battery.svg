@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="battery.svg"
    version="1.1"
    width="100%"
@@ -21,8 +21,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="93.277593"
-     inkscape:cx="106.71236"
+     inkscape:cy="-82.972013"
+     inkscape:cx="51.141791"
      inkscape:zoom="2.7741261"
      showgrid="false"
      id="namedview144"
@@ -35,13 +35,16 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff">
+    <inkscape:grid
+       type="xygrid"
+       id="grid950" />
+  </sodipodi:namedview>
   <defs
      id="defs81">
     <style
        type="text/css"
-       id="current-color-scheme">
-    </style>
+       id="current-color-scheme" />
   </defs>
   <metadata
      id="metadata34">
@@ -609,21 +612,22 @@
        id="g3137-6"
        transform="translate(1176.657,993.36224)">
       <rect
-         y="51.825756"
-         x="-28.713303"
-         height="1.0003365"
-         width="7.0000048"
+         y="54.891918"
+         x="-35.616531"
+         height="1.5410461"
+         width="6.5494113"
          id="rect6488-8-4-8"
-         style="fill:#d40055;fill-opacity:1;stroke:none"
-         transform="rotate(-45)" />
+         style="fill:#ff2d81;fill-opacity:1;stroke:none"
+         transform="rotate(-45)"
+         ry="0" />
       <rect
          transform="rotate(45)"
-         style="fill:#d40055;fill-opacity:1;stroke:none"
+         style="fill:#ff2d80;fill-opacity:1;stroke:none;stroke-width:0.9890154"
          id="rect6878-4-6"
-         width="7.0000048"
-         height="1.0003365"
-         x="48.825939"
-         y="24.713181" />
+         width="6.5888796"
+         height="1.5018362"
+         x="52.334206"
+         y="31.624575" />
     </g>
   </g>
   <g
@@ -763,11 +767,11 @@
          height="1.0003365"
          width="7.0000048"
          id="rect6488-8-4-8-2-3"
-         style="fill:#d40055;fill-opacity:1;stroke:none"
+         style="fill:#ff2d80;fill-opacity:1;stroke:none"
          transform="rotate(-45)" />
       <rect
          transform="rotate(45)"
-         style="fill:#d40055;fill-opacity:1;stroke:none"
+         style="fill:#ff2d80;fill-opacity:1;stroke:none"
          id="rect6878-4-6-6-9"
          width="7.0000048"
          height="1.0003365"
@@ -913,11 +917,11 @@
          height="1.0003365"
          width="7.0000048"
          id="rect6488-8-4-8-2"
-         style="fill:#d40055;fill-opacity:1;stroke:none"
+         style="fill:#ff2d80;fill-opacity:1;stroke:none"
          transform="rotate(-45)" />
       <rect
          transform="rotate(45)"
-         style="fill:#d40055;fill-opacity:1;stroke:none"
+         style="fill:#ff2d80;fill-opacity:1;stroke:none"
          id="rect6878-4-6-6"
          width="7.0000048"
          height="1.0003365"
