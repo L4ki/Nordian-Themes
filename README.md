@@ -25,3 +25,8 @@ Plasma Theme
 ------------
 
 Fixed widget: button.svg
+
+Icons
+------
+
+Added mpd.svg icon
