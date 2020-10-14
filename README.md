@@ -48,3 +48,8 @@ GTK Theme
 ---------
 
 Correction of gtkrc file
+
+Changelog: 14.10.2020.
+----------------------
+
+Added Plasma Theme "Nordian-Solid-Plasma"
