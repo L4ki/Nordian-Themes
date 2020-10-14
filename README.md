@@ -30,3 +30,21 @@ Icons
 ------
 
 Added mpd.svg icon
+
+Changelog: 14.10.2020.
+----------------------
+
+Icons
+-----
+
+Onlyoffice icon added
+
+Plasma Theme
+------------
+
+Fixed widget: plasmoidheading.svg
+
+GTK Theme
+---------
+
+Correction of gtkrc file
