@@ -15,7 +15,7 @@
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="actionbutton.svg"
    version="1.0"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:version="0.32"
    id="svg2"
    height="128"
@@ -28,7 +28,7 @@
      inkscape:snap-nodes="true"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1015"
+     inkscape:window-height="1013"
      inkscape:window-width="1920"
      showgrid="false"
      height="128px"
@@ -278,8 +278,7 @@
        inkscape:collect="always" />
     <style
        type="text/css"
-       id="current-color-scheme">
-    </style>
+       id="current-color-scheme" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="8"
@@ -298,7 +297,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -306,14 +305,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <ellipse
-       ry="10"
-       rx="12"
-       cy="106"
-       cx="48"
-       style="fill:none;stroke:none"
-       id="path4575"
-       transform="matrix(1.25,0,0,1.5,-26.000004,-140)" />
     <g
        transform="matrix(1.5,0,0,1.5,75.045074,4.955)"
        inkscape:label="#g3805"
@@ -329,7 +320,7 @@
          r="8"
          cy="8"
          cx="-32"
-         style="color:#eff0f1;fill:#8fbcbb;fill-opacity:1;stroke:none"
+         style="color:#eff0f1;fill:#8fbcbb;fill-opacity:1;stroke:none;opacity:0.4"
          id="path3031"
          class="ColorScheme-ButtonBackground" />
       <path
@@ -360,7 +351,7 @@
        transform="translate(54,63.662733)"
        id="focus">
       <rect
-         style="fill:#000000;fill-opacity:0.00392157;stroke:none"
+         style="fill:#000000;fill-opacity:0;stroke:none"
          id="rect3842"
          width="30"
          height="30"
@@ -379,7 +370,7 @@
          cy="8"
          cx="-32"
          transform="matrix(1.6417889,0,0,1.6417889,25.582317,31.82069)"
-         style="color:#3daee9;opacity:0.4;fill:none;stroke:#d08770;stroke-width:1.16615;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="color:#3daee9;opacity:0.4;fill:#d08770;stroke:#d08770;stroke-width:1.16615;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
          id="path3846"
          class="ColorScheme-ButtonHover" />
     </g>
