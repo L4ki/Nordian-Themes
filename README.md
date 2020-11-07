@@ -53,3 +53,21 @@ Changelog: 14.10.2020.
 ----------------------
 
 Added Plasma Theme "Nordian-Solid-Plasma"
+
+Changelog: 07.11.2020.
+----------------------
+
+Plasma Theme "Nordian-Plasma" and "Nordian-Solid-Plasma"
+-----------------------------
+
+Widget correction: actionbutton.svg
+
+Icons
+-----
+
+Icon correction: dialog-password.svg
+
+GTK-3 Theme
+-----------
+
+Correction: button-active.png
