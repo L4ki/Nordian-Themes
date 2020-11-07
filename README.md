@@ -62,8 +62,8 @@ Plasma Theme "Nordian-Plasma" and "Nordian-Solid-Plasma"
 
 Widget correction: actionbutton.svg
 
-Icons
------
+Icons (Breeze-Nordian-Dark and Breeze-Nordian-Light)
+------------------------------------------------------
 
 Icon correction: dialog-password.svg
 
