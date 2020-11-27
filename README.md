@@ -80,6 +80,8 @@ Plasma Themes
 
 Correction widgets: taskas.svg, plasmoidheading.svg
 
+Correction of file colors
+
 GTK-3 Theme
 -----------
 
