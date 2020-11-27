@@ -124,7 +124,7 @@ widgets main borders color insensitive backdrop */
 @define-color theme_button_foreground_active_backdrop_insensitive_breeze rgba(216, 218, 221, 0.35);
 /*
 these are pretty self explicative */
-@define-color warning_color_breeze #f67400;
+@define-color warning_color_breeze #ff7e0b;
 @define-color error_color_breeze   #da4453;
 @define-color success_color_breeze #27ae60;
 @define-color warning_color_backdrop_breeze #f67400;
