@@ -71,3 +71,23 @@ GTK-3 Theme
 -----------
 
 Correction: button-active.png
+
+Changelog: 28.11.2020.
+---------------------
+
+Plasma Themes
+--------------
+
+Correction widgets: taskas.svg, plasmoidheading.svg
+
+GTK-3 Theme
+-----------
+
+Correction of gtk.css file
+
+Icons
+------
+
+Icon correction: activities
+
+Added Icons: onlyoffice, onlyoffice-desktopeditors
