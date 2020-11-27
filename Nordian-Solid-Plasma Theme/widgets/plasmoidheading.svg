@@ -37,7 +37,7 @@
      inkscape:zoom="2.9606035"
      showgrid="false"
      id="namedview39"
-     inkscape:window-height="1009"
+     inkscape:window-height="1013"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -164,7 +164,7 @@
        id="rect3152-0" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#232629;opacity:0.01;fill:#030303;fill-opacity:1"
+       style="color:#232629;opacity:1;fill:#30504f;fill-opacity:1"
        d="m 99,7.0000038 v -1 H 67 v 1 z"
        class="ColorScheme-Text"
        id="rect3154-9" />
@@ -185,7 +185,7 @@
        id="path3176-6" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#232629;opacity:0.01;fill:#030303;fill-opacity:1;fill-rule:evenodd"
+       style="color:#232629;opacity:1;fill:#30504f;fill-opacity:1;fill-rule:evenodd"
        d="M 105,7 H 99 V 6 h 6 c 0,1 -2e-5,0 0,1 z"
        class="ColorScheme-Text"
        id="path3178-2" />
@@ -200,7 +200,7 @@
        id="path3182-1" />
     <path
        inkscape:connector-curvature="0"
-       style="color:#232629;opacity:0.01;fill:#030303;fill-opacity:1;fill-rule:evenodd"
+       style="color:#232629;opacity:1;fill:#30504f;fill-opacity:1;fill-rule:evenodd"
        d="m 67,5.9999838 v 1 h -4 l -2,2e-5 v -1 l 2,-2e-5 h 1 z"
        class="ColorScheme-Text"
        id="path3184-8" />
