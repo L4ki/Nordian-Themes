@@ -108,3 +108,8 @@ Nordian-Breeze-GTK
 __________________
 
 Correction of gtkrc file
+
+Icons: Breeze-Nordian-Dark and Breeze-Nordian-Light
+___________________________________________________
+
+Icon correction: activities.svg
