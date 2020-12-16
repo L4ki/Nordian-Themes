@@ -103,3 +103,8 @@ ______________________________________________________
 Fixed widget: tasks.svg
 
 Fixed icon: start.svg
+
+Nordian-Breeze-GTK
+__________________
+
+Correction of gtkrc file
