@@ -93,3 +93,13 @@ Icons
 Icon correction: activities
 
 Added Icons: onlyoffice, onlyoffice-desktopeditors
+
+Changelog: 16.12.2020.
+---------------------
+
+Plasma Themes: Nordian-Plasma and Nordian-Solid-Plasma
+______________________________________________________
+
+Fixed widget: tasks.svg
+
+Fixed icon: start.svg
