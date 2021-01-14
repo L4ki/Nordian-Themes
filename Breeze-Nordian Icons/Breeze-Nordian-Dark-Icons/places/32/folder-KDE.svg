@@ -8,8 +8,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="folder-root.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="folder-KDE.svg"
    id="svg12"
    version="1.1"
    viewBox="0 0 32 32">
@@ -21,7 +21,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,7 +34,7 @@
      inkscape:zoom="19.625"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1013"
+     inkscape:window-height="1009"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -49,28 +48,28 @@
   <defs
      id="defs3051">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient855">
+       id="linearGradient853"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#ebcb8b;stop-opacity:1"
+         id="stop849"
          offset="0"
-         id="stop851" />
+         style="stop-color:#bf616a;stop-opacity:1" />
       <stop
-         style="stop-color:#a3be8c;stop-opacity:1"
+         id="stop851"
          offset="1"
-         id="stop853" />
+         style="stop-color:#d08770;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient847">
+       id="linearGradient845"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#bf616a;stop-opacity:1"
+         id="stop841"
          offset="0"
-         id="stop843" />
+         style="stop-color:#a3be8c;stop-opacity:1" />
       <stop
-         style="stop-color:#d08770;stop-opacity:1"
+         id="stop843"
          offset="1"
-         id="stop845" />
+         style="stop-color:#8fbcbb;stop-opacity:1" />
     </linearGradient>
     <style
        id="current-color-scheme"
@@ -110,33 +109,33 @@
       }
       </style>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient847"
-       id="linearGradient849"
-       x1="1"
-       y1="16"
-       x2="31"
-       y2="16"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient855"
-       id="linearGradient857"
-       x1="2"
-       y1="6.5"
-       x2="30"
+       gradientUnits="userSpaceOnUse"
        y2="6.5"
-       gradientUnits="userSpaceOnUse" />
+       x2="30"
+       y1="6.5"
+       x1="2"
+       id="linearGradient847"
+       xlink:href="#linearGradient845"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="16"
+       x2="31"
+       y1="16"
+       x1="1"
+       id="linearGradient855"
+       xlink:href="#linearGradient853"
+       inkscape:collect="always" />
   </defs>
   <path
      id="path4"
      class="ColorScheme-Highlight"
      d="M 2 3 L 2 10 L 1 10 L 1 29 L 12 29 L 13 29 L 31 29 L 31 8 L 30 8 L 30 5 L 16 5 L 14 3 L 2 3 z "
-     style="fill:url(#linearGradient849);fill-opacity:1;stroke:none" />
+     style="fill:url(#linearGradient855);fill-opacity:1;stroke:none" />
   <path
      id="path6"
      d="m 2,3 0,7 9,0 L 13,8 30,8 30,5 16,5 14,3 2,3 Z"
-     style="fill-opacity:1;fill-rule:evenodd;fill:url(#linearGradient857)" />
+     style="fill-opacity:1;fill-rule:evenodd;fill:url(#linearGradient847)" />
   <path
      id="path8"
      d="M 14 3 L 15 6 L 30 6 L 30 5 L 16 5 L 14 3 z M 13 8 L 11 10 L 1 10 L 1 11 L 12 11 L 13 8 z "
@@ -147,7 +146,8 @@
      d="M 13 8 L 11 9 L 2 9 L 2 10 L 11 10 L 13 8 z M 1 28 L 1 29 L 31 29 L 31 28 L 1 28 z "
      style="fill-opacity:0.2;fill-rule:evenodd" />
   <path
-     style="fill:#0d0d0d;fill-opacity:1"
-     d="m 17.952047,14.316631 h -2 l -5,10 h 2 z m -2,9 h 5 v 1 h -5 z"
-     id="path21" />
+     style="color:#d3dae3;fill:#0d0d0d;fill-opacity:1;stroke-width:0.478556"
+     d="m 16.770725,13 -1.9238,0.288322 v 6.889841 l 1.9238,-0.511526 v -2.661815 l 1.923801,3.138004 1.923801,-0.714288 -2.404751,-2.857123 2.405693,-3.094291 L 18.752769,13 16.770725,16.12313 Z m -3.917114,1.868478 c -0.04554,0 -0.091,0.01753 -0.125871,0.05216 l -0.756183,0.748694 c -0.06981,0.06911 -0.05299,0.167764 0,0.250179 l 0.78248,1.216519 c -0.05802,0.119145 -0.108173,0.241857 -0.150295,0.367369 -0.0024,0.005 -0.005,0.01046 -0.0059,0.01574 l -1.419356,0.312498 C 11.082156,17.852887 11,17.910667 11,18.00835 v 0.467817 0.467829 c 0,0.09768 0.08223,0.155521 0.178486,0.176713 l 1.419356,0.312499 c 0.0038,0.0092 0.0076,0.01771 0.01134,0.02694 0.04093,0.121934 0.08959,0.2412 0.145596,0.357153 l -0.782485,1.21558 c -0.05303,0.08247 -0.0698,0.181104 0,0.250181 l 0.756184,0.748693 c 0.0698,0.06912 0.181973,0.06912 0.251744,0 l 1.226807,-0.773811 c 0.120599,0.05812 0.244846,0.108398 0.371985,0.150672 0.008,0.0034 0.01598,0.007 0.02448,0.01029 l 0.314685,1.404377 c 0,0.09769 0.07981,0.176719 0.178479,0.176719 h 1.068044 c 0.09867,0 0.157075,-0.08142 0.17848,-0.176719 l 0.314647,-1.447157 c 0.14458,-0.05377 0.284924,-0.118171 0.419895,-0.19253 l 1.197683,0.848225 c 0.06981,0.06911 0.181973,0.06911 0.251737,0 l 0.756199,-0.748696 c 0.06981,-0.06912 0.05301,-0.16777 0,-0.250186 l -0.455577,-0.684522 -0.048,0.01758 c -0.108338,0.04034 -0.230293,-0.002 -0.290265,-0.09951 l -0.479133,-0.781244 c -0.399158,0.945334 -1.341816,1.609931 -2.441383,1.609931 -1.46092,0 -2.64523,-1.172583 -2.64523,-2.619047 0,-1.109947 0.698719,-2.056339 1.683327,-2.437667 v -0.521755 l -0.0048,0.0167 c -0.01062,0.0047 -0.02047,0.0093 -0.03093,0.01304 -0.125444,0.0413 -0.24812,0.09036 -0.367288,0.146948 l -1.224927,-0.772881 c -0.03486,-0.03448 -0.08034,-0.05216 -0.125873,-0.05216 z"
+     class="ColorScheme-Text"
+     id="path10-7" />
 </svg>
