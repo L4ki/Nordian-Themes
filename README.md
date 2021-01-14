@@ -113,3 +113,21 @@ Icons: Breeze-Nordian-Dark and Breeze-Nordian-Light
 ---------------------------------------------------
 
 Icon correction: activities.svg
+
+Changelog: 14.01.2021.
+----------------------
+
+Plasma Themes
+-------------
+
+Redesigned Theme
+
+GTK Theme
+----------
+
+Icon correction: check-checked.png
+
+Icons
+------
+
+Add folders: folder-github, folder-KDE, folder-Neon, folder-Manjaro, folder-openSUSE, folder-reddit
