@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="listitem.svg"
    id="svg2"
    width="113.18325"
@@ -21,8 +21,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="55.788574"
-     inkscape:cx="61.134721"
+     inkscape:cy="105.22613"
+     inkscape:cx="39.112539"
      inkscape:zoom="8.9001172"
      showgrid="false"
      id="namedview58"
@@ -390,7 +390,7 @@
      inkscape:connector-curvature="0"
      id="hover-right"
      d="M 57.742285,5.2252593 V 16.225265 h 2 c 6.68e-4,-0.01835 0,-0.0344 0,-0.05289 V 5.2781443 c 0,-0.0185 6.68e-4,-0.03453 0,-0.05288 h -2 z"
-     style="color:#3daee9;opacity:0.04;fill:#d08770;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="color:#3daee9;opacity:0.05;fill:#d08770;fill-opacity:1;fill-rule:nonzero;stroke:none"
      class="ColorScheme-ViewFocus" />
   <path
      inkscape:connector-curvature="0"
@@ -420,11 +420,11 @@
      inkscape:connector-curvature="0"
      id="hover-topright"
      d="m 57.742629,3.2252123 v 2.000047 h 1.999722 v -2.000047 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 h -1.997621 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
-     style="color:#3daee9;opacity:0.04;fill:#d08770;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="color:#3daee9;opacity:0.05;fill:#d08770;fill-opacity:1;fill-rule:nonzero;stroke:none"
      class="ColorScheme-ViewFocus" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#3daee9;opacity:0.04;fill:#d08770;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="color:#3daee9;opacity:0.05;fill:#d08770;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 57.742629,16.225198 v 2.000047 h 1.999722 v -2.000047 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 h -1.997621 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
      id="hover-bottomright"
      class="ColorScheme-ViewFocus" />
