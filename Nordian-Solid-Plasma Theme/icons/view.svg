@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="view.svg"
    id="svg873"
    version="1.1"
@@ -37,7 +37,7 @@
       <stop
          id="stop846"
          offset="0.53111857"
-         style="stop-color:#ebcb8b;stop-opacity:1" />
+         style="stop-color:#56908f;stop-opacity:1" />
       <stop
          style="stop-color:#a3be8c;stop-opacity:1"
          offset="1"
@@ -130,7 +130,7 @@
      inkscape:zoom="8.4800067"
      showgrid="false"
      id="namedview875"
-     inkscape:window-height="1017"
+     inkscape:window-height="1009"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
